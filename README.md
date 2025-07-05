@@ -29,22 +29,23 @@ Node.js: Download & Install Node.js (includes npm)
 
 Installation
 Clone the repository:
-
-git clone
+```sh
+git clone https://github.com/HarsheedRabhadia/DevKit.git
+```
 
 Navigate to the project directory:
-
+``` sh
 cd dev-tools-collection
-
+```
 Install dependencies:
-
+``` sh
 npm install
-
+```
 Running the Application
 To run the application in development mode:
-
-npm start
-
+```
+npm run dev
+```
 This will open the application in your browser at http://localhost:3000 (or another available port). The page will reload if you make edits.
 
 📧 Contact
